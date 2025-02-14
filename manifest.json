@@ -1,0 +1,24 @@
+{
+  "header": {
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "description": "Invisible Armor",
+    "name": "Template",
+    "uuid": "bf2096d9-7fda-4281-8904-bfcb04133501"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "type": "skin_pack",
+      "uuid": "a1f7cd4d-4cfd-4fa3-82a1-753a947e643b"
+    }
+  ],
+  "format_version": 1
+}
